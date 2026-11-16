@@ -22,7 +22,7 @@ Windows (no installer needed):
 
 ```
 pip install psutil
-shell-hunter.cmd
+.\shell-hunter.cmd
 ```
 
 Options: `--once` prints a text snapshot, `--port N` changes the port, `--no-browser` skips opening a tab.
